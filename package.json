@@ -5,8 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "nodemon .",
-    "start": "node app.js",
-    "build": "webpack --config webpack.config.js"
+    "start": "node app.js"
   },
   "dependencies": {
     "bcrypt": "^5.1.1",
